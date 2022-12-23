@@ -8,7 +8,7 @@
 
 # :paperclip: Introduction
 
-This project was mainly for me to study both web scraping as well as Node.js with Mongoose, while doing something towards a goal that I set because it is lacking in the web: a Naruto API
+I made this script to practice Puppeteer and also to find a way to tweet automatically since I can't tweet that much during the day because of work, so with this I can still take part in saving Warrior Nun :heart:
 
 # :computer: Technologies
 
