@@ -47,7 +47,7 @@ async function AutomateTweet() {
   };
 
   await page.setCacheEnabled(false);
-  await page.goto('https://twitter.com/login', { waitUntil: 'networkidle2', timeout: 120000 });
+  await page.goto('https://twitter.com/login', { waitUntil: 'networkidle2', timeout: 150000 });
 
   //LOGIN
   await page.type('input[name="text"]', username, { delay: 25 });
